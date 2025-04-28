@@ -1,0 +1,9 @@
+Hello, welcome to the Tag Maestro!
+
+This is a tool used to query and edit aws resources
+
+This tool aims to provide management and structure for projects sharing an AWS account
+
+Tags are used as the primary key for these operations
+
+Projects are tracked by their names, which should be saved in projects.txt
